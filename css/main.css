@@ -100,6 +100,7 @@ h4 {
     font-family: "Lato-Regular",sans-serif;
     letter-spacing: 3px;
     color: var(--blue-theme);
+    font-style: italic;
 }
 .nav-menu > li {
     padding: 0px 15px 5px;
@@ -221,8 +222,9 @@ body{
     width: 100%;
     z-index: 2;
     background-color: #fff;
-    margin-right: 100px;
-    margin-left: 100px;
+    height: 70px;
+    /* margin-right: 100px;
+    margin-left: 100px; */
 }
 .banner {
     position: relative;
